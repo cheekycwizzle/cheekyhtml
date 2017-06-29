@@ -1,5 +1,3 @@
-# cheekyhtml
-first website in html
 <!DOCTYPE html>
 <html>
 <head>
